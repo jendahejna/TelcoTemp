@@ -63,7 +63,7 @@ After completing these steps, the backend enters a waiting period before initiat
 
 ## How to Run
 
-1.  **Configuration File:** To run the application, you will need a `.env` configuration file and also cert files placed in the project's root directory. This file contains sensitive information like database credentials and environment settings. To obtain this file, please contact the system administrator at **musilp94@gmail.com**.
+1.  **Configuration File:** To run the application, you will need a `.env` configuration file and also cert files placed in the project's root directory. This file contains sensitive information like database credentials and environment settings. To obtain this file, please contact the project leader at **musilp94@gmail.com**.
 2.  **Create a Virtual Environment (Recommended):**
     ```bash
     python -m venv venv
